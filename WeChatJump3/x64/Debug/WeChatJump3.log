@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\administrator\source\repos\wechatjump3\wechatjump3\源.cpp(190): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\wechatjump3\wechatjump3\源.cpp(192): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  WeChatJump3.vcxproj -> C:\Users\Administrator\source\repos\WeChatJump3\x64\Debug\WeChatJump3.exe
+  WeChatJump3.vcxproj -> C:\Users\Administrator\source\repos\WeChatJump3\x64\Debug\WeChatJump3.pdb (Partial PDB)
