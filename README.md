@@ -1,6 +1,6 @@
 #WeChatAutoJump 
 
-环境：Android 、Visual Studio 2017、OpenCV3.4（64位）
+环境：Android(小米3) 、Visual Studio 2017、OpenCV3.4（64位）
 
 
 跳跃原理：通过adb shell screencap -p /sdcard/jump/"当前时间".png 截图存放在Android设备上，adb pull 拉取到电脑上，然后VS读取图片进行操作，算出时间后用adb input swipe x1 y1 x2 y2 time(ms)控制跳跃（需要打开Android设备的USB调试和模拟触摸）。
